@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+venv/
+.env
+*.safetensors
+*.pth
+*.ckpt
+*.wav
+*.mp3
+output/
+out/
