@@ -1,5 +1,7 @@
 ﻿# 蓝汐 AI 角色管线（Lanxi AI Pipeline）
 
+<p align="center">![封面](assets/cover.png)</p>
+
 > 在一台 **8GB 显存笔记本**上，从零搭出「会说话 + 会画画 + 有人格」的 AI 角色。
 > 全部本地运行，零 API 费用。踩过的坑、实测数据、可复现脚本都在这里。
 
